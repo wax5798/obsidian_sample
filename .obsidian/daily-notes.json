@@ -1,0 +1,5 @@
+{
+  "format": "YYYY-MM-DD ddd",
+  "folder": "notes/daily_notes",
+  "template": "vault_data/template/daily_notes"
+}

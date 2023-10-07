@@ -1,0 +1,9 @@
+.trash
+.*.swp
+*.o
+*.mod
+*.cmd
+*.mod.c
+*.ko
+modules.order
+Module.symvers

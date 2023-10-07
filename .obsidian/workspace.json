@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "a7a1e5b6a0fb42b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "050cc3e4b8acb76b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf26dac085b04086",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7d561816d83bbf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6ffad734add2ccb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b0449fa23226973",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26a4e548b82cfce9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff634c4264a93553",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6a0a652db0f9d0b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6dc6be2c1d479380",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ddbe8472fc4d46d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ba06dd587282313",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e69c49a29fc0e96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5844fd394ce57ba0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3fd25e5b7da32a2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "67b66ef9b848ee12",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-memos:Memos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "4b0449fa23226973",
+  "lastOpenFiles": [
+    "notes/monthly_notes",
+    "notes/daily_notes",
+    "notes",
+    "obsidian_config/obsidian_config.md",
+    "obsidian_config/obsidian_useguide.md",
+    "vault_data/template/daily_notes.md",
+    "tools/neovim 安装过程记录.md",
+    "tools/解决github访问问题.md",
+    "杂记.md",
+    "code_demo/linux_kernel/写一个简单的字符设备驱动.md",
+    "code_demo/linux_kernel/从写一个简单的内核模块开始.md",
+    "vault_data/Excalidraw/Drawing 2023-05-16 23.46.10.excalidraw.md",
+    "Pasted image 20230519232002.png.md",
+    "vault_data/Excalidraw/Drawing 2023-10-07 00.02.43.excalidraw.md",
+    "Pasted image 20230519232002.png",
+    "tools",
+    "[手把手教你如何编写一个Linux内核模块（超详细~）.md",
+    "4913",
+    "code_demo/linux_kernel/codes/code1/kmod_sample.ko",
+    "code_demo/linux_kernel/codes/code1/kmod_sample.mod.o",
+    "code_demo/linux_kernel/codes/code1/Module.symvers",
+    "code_demo/linux_kernel/codes/code1/kmod_sample.mod.c",
+    "code_demo/linux_kernel/codes/code1/modules.order",
+    "code_demo/linux_kernel/codes/code1/kmod_sample.mod",
+    "vault_data/daily_notes/2023-05-16 Tue.md",
+    "Untitled mindmap.md",
+    "vault_data/Excalidraw/Drawing 2023-05-16 23.49.08.excalidraw.md",
+    "daily_notes/2023-05-15 Mon.md"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "recentFiles": [
+    {
+      "basename": "obsidian_config",
+      "path": "obsidian_config/obsidian_config.md"
+    },
+    {
+      "basename": "obsidian_useguide",
+      "path": "obsidian_config/obsidian_useguide.md"
+    },
+    {
+      "basename": "daily_notes",
+      "path": "vault_data/template/daily_notes.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}
